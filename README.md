@@ -1,0 +1,2 @@
+# unprotectppt
+unprotect powerpoint presentation
